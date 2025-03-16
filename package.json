@@ -21,7 +21,7 @@
     "@tanstack/eslint-plugin-query": "5.59.7",
     "@tanstack/react-router": "^1.114.22",
     "@tanstack/router-devtools": "1.65.0",
-    "@tanstack/router-plugin": "^1.65.0",
+    "@tanstack/router-plugin": "^1.114.22",
     "@testing-library/react": "16.0.1",
     "@vitejs/plugin-react": "^4.3.4",
     "@vitest/browser": "^3.0.8",
